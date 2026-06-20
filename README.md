@@ -11,7 +11,8 @@ A robust, modular, and production-ready video processing pipeline that handles r
 
 This project implements a complete **video ingestion and preprocessing pipeline** as required for the PhD technical assessment. It extracts structured, high-quality frames from team sports videos and enriches them with scene segmentation, quality scores, and YOLOv8 pose estimation — ready for downstream computer vision tasks.
 
-A sample Output : [](figure\output.png)
+A sample Output : 
+![Sample Output](figure/output.png)
 
 ---
 
