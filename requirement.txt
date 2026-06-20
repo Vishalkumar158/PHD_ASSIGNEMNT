@@ -1,0 +1,9 @@
+opencv-python
+ultralytics
+pyyaml
+ffmpeg-python
+scenedetect
+numpy
+tqdm
+pytest
+pytest-cov

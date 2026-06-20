@@ -1,0 +1,44 @@
+# Ignore large/generated output directories
+pose/
+experiments/
+outputs/
+logs/
+
+# Ignore demo and temporary frames
+outputs/demo_frames/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# YOLO model cache (optional - keep if you want to version the model)
+# yolov8*.pt
+*.pt
+
+# Log files
+*.log
+
+#Video file
+*.mp4

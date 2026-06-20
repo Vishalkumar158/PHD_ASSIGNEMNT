@@ -1,0 +1,29 @@
+input:
+  video_path: "samples/sample_video.mp4"
+  supported_formats: [".mp4", ".mkv", ".avi"]
+  stream_url: "rtsp://example.com/stream"
+
+processing:
+  frame_interval: 30
+  target_fps: 5
+  target_resolution: [640, 360]
+  color_space: "RGB"
+  quality_threshold: 50.0
+
+output:
+  base_dir: "outputs"
+  metadata_file: "metadata.json"
+  create_summary: true
+
+scene_detection:
+  enabled: true
+  threshold: 30.0
+
+logging:
+  level: INFO
+  file: "logs/pipeline.log"
+
+scene_detection:
+  enabled: true
+  threshold: 27.0
+  split_scenes: true
