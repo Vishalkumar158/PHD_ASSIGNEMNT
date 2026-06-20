@@ -66,7 +66,7 @@ Human_Pose_Estimation/
 # Installation
 ```bash 
 #1. Clone the project
-git clone <your-repo-url>
+git clone https://github.com/Vishalkumar158/PHD_ASSIGNEMNT.git
 cd Human_Pose_Estimation
 
 # 2. Install dependencies on Windows
