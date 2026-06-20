@@ -59,10 +59,10 @@ Human_Pose_Estimation/
 
 # System Architecture
 - Data Flow 
-  ![Data Flow](figure\Data_flow.png)
+  ![Data Flow](figure/Data_flow.png)
 
 - Sequence Diagram
-  ![Sequence Diagram](figure\Sequence_Diagram.png)
+  ![Sequence Diagram](figure/Sequence_Diagram.png)
 
 # Installation
 ```bash 
