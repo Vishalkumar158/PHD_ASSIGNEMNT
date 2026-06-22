@@ -102,7 +102,7 @@ After running the pipeline you will see:
 # Jupyter Notebook
 The  provides a complete visual walkthrough of the entire pipeline — ideal for demonstration during your PhD assessment.
 
-# 🛠️ Troubleshooting
+#  Troubleshooting
 
 - Video path issues → Use forward slashes / or absolute paths
 - Missing ffmpeg → Install system-wide ffmpeg
@@ -110,7 +110,7 @@ The  provides a complete visual walkthrough of the entire pipeline — ideal for
 - Low quality frames filtered → Lower quality_threshold in config
 
 
-# 📌 Assessment Alignment
+#  Assessment Alignment
 This implementation fully addresses all requirements in the technical assessment:
 
 - ✅ Input handling (multiple formats + metadata extraction)
